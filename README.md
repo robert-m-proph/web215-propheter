@@ -2,7 +2,7 @@
 Web 215 | Advanced Markup &amp; Scripting
 
 
-### I already linked your profile to your name. Just link to your class repo and mark yourself as here with time/date!!!
+### I already linked your profile to your name. Just link your class repo and mark yourself as here with time/date!!!
 
 ### Invited and waiting on:
 
