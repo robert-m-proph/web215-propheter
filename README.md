@@ -6,7 +6,7 @@ Web 215 | Advanced Markup &amp; Scripting
 
 ### Invited and waiting on:
 
-- [Kendall Cheek](https://github.com/KendallCheek/) | [Class Repo]( -- Enter class Repo Here --)
+- [Kendall Cheek](https://github.com/KendallCheek/) | [Class Repo](https://github.com/KendallCheek/web215_kendallcheek) was here 11:27 am 1/28/20
 - [Elena Zelenina](https://github.com/ElenaZelenina/) | [Class Repo]( Enter class Repo Here)
 - [Safron Haile](https://github.com/SafronH/) | [Class Repo]( -- Enter class Repo Here --)
 - [Marc Seelinger](https://github.com/mseelingerjr/)  | [Class Repo]( -- Enter class Repo Here --)
