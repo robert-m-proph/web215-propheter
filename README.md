@@ -11,7 +11,7 @@ Web 215 | Advanced Markup &amp; Scripting
 - [Safron Haile](https://github.com/SafronH/) | [Class Repo]( -- Enter class Repo Here --)
 - [Marc Seelinger](https://github.com/mseelingerjr/)  | [Class Repo](https://github.com/mseelingerjr/web210-seelinger) was here 4:51pm 1/30/20
 - [Thinh Phamx](https://github.com/thinhpham266/) | [Class Repo]( -- Enter class Repo Here --)
-- [Safron Haile](https://github.com/SafronH/) | [Class Repo]( -- Enter class Repo Here --)
+- [Safron Haile](https://github.com/SafronH/) | [Class Repo](https://github.com/SafronH/web215) was here 9:30pm 1/30/20
 - [Sabrina Nurx](https://github.com/snur0000/) | [Class Repo]( -- Enter class Repo Here --)
 - [Mariia Pavlenko](https://github.com/MariiaPa/) | [Class Repo](https://github.com/MariiaPa/web215-pavlenko) - was here at 7:51am on 1/28/2020
 - [Alexander Schmidx](https://github.com/LtSchmiddy/) | [Class Repo]( -- Enter class Repo Here --)
