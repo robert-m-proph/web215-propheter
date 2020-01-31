@@ -18,4 +18,5 @@ Web 215 | Advanced Markup &amp; Scripting
 - [Emmanuel Sosax](https://github.com/sosaeman/)  | [Class Repo]( -- Enter class Repo Here --)
 - [Kewal Thapax](https://github.com/Kewalthapa/)  | [Class Repo]( -- Enter class Repo Here --)
 - [Elena Zeleninax](https://github.com/ElenaZelenina/) | [Class Repo](https://github.com/ElenaZelenina/web215-Zelenina) | was here 8:22am 1/28/2020
-- [Terrell Scott](https://github.com/Tdscott1978/)  | [Class Repo]( -- Enter class Repo Here --)
+- [Terrell Scott](https://github.com/Tdscott1978/)  | [Class Repo]( https://github.com/tdscott1978/web215-scott) | was here 1/31/2020 at
+9:50 am.
