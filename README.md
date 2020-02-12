@@ -15,7 +15,7 @@ Web 215 | Advanced Markup &amp; Scripting
 - [Sabrina Nurx](https://github.com/snur0000/) | [Class Repo](https://github.com/snur0000/web215) here at 12:25am 2/10/20
 - [Mariia Pavlenko](https://github.com/MariiaPa/) | [Class Repo](https://github.com/MariiaPa/web215-pavlenko) - was here at 7:51am on 1/28/2020
 - [Alexander Schmidx](https://github.com/LtSchmiddy/) | [Class Repo]( -- Enter class Repo Here --)
-- [Emmanuel Sosax](https://github.com/sosaeman/)  | [Class Repo]( -- Enter class Repo Here --)was here 2/11/2020 8:13pm
+- [Emmanuel Sosax](https://github.com/sosaeman/)  | was here 2/11/2020 8:13pm
 - [Kewal Thapax](https://github.com/Kewalthapa/)  | [Class Repo]( -- Enter class Repo Here --)
 - [Elena Zeleninax](https://github.com/ElenaZelenina/) | [Class Repo](https://github.com/ElenaZelenina/web215-Zelenina) | was here 8:22am 1/28/2020
 - [Terrell Scott](https://github.com/Tdscott1978/)  | [Class Repo]( https://github.com/tdscott1978/web215-scott) | was here 1/31/2020 at
