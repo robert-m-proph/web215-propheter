@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="survey_form_style.css">	
+    <title>Survey Form</title>	
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+	</script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js">
+	</script>
+	<![endif]-->	
+</head>
+<body>
+    <a id="top"></a>
+    <!-- JS to run CodePen Test -->
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+    <header>
+        <h1 id="title" class="center">The Playbook | Customer Survey Form</h1>
+    </header>
+    <main>	
+		<p id="description">Thank you for visiting The Playbook! Please fill out our customer
+        survey form to assist us in better helping youth football coaches!</p>		
+		<br>
+		<form id="survey-form">
+            <div class="grouping">
+                <label id="name-label" for="name">Name</label>
+                <input type="text" id="name" placeholder="Enter your name" required>
+            </div>
+            <div class="grouping">
+                <label id="email-label" for="email">Email</label>
+                <input type="email" id="email" placeholder="Enter your email" required>
+            </div>
+            <div class="grouping">
+                <label id="number-label" for="number">Age (optional)</label>
+                <input type="number" id="number" min="12" max="90" placeholder="Age">
+            </div>
+            <div class="grouping">
+                <p>Select an option that best describes you.</p>
+                <select id="dropdown" required>
+                    <option disabled selected value>Select an option</option>
+                    <option value="coach">Coach</option>
+                    <option value="parent">Parent</option>
+                    <option value="player">Player</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+            <div class="grouping">
+                <p>Would you recommend The Playbook to others?</p>
+                <label><input name="recommend" value="yes" type="radio" class="input_sep" checked> Yes</label>
+                <label><input name="recommend" value="maybe" type="radio" class="input_sep"> Maybe</label>
+                <label><input name="recommend" value="no" type="radio" class="input_sep"> No</label>
+            </div>
+            <div class="grouping">
+                <p>What would you use The Playbook for? (check all that apply)</p>
+                <label><input name="used_for" value="warm_up_drills" type="checkbox" class="input_sep" checked> Warm Up Drills</label>
+                <label><input name="used_for" value="cool_down_drills" type="checkbox" class="input_sep"> Cool Down Drills</label>
+                <label><input name="used_for" value="offensive_drills" type="checkbox" class="input_sep"> Offensive Drills</label>
+                <label><input name="used_for" value="defensive_drills" type="checkbox" class="input_sep"> Defensive Drills</label>
+                <label><input name="used_for" value="special_teams_drills" type="checkbox" class="input_sep"> Special Teams Drills</label>
+                <label><input name="used_for" value="offensive_plays" type="checkbox" class="input_sep"> Offensive Plays</label>
+                <label><input name="used_for" value="defensive_plays" type="checkbox" class="input_sep"> Defensive Plays</label>
+                <label><input name="used_for" value="special_teams_plays" type="checkbox" class="input_sep"> Special Teams Plays</label>
+                <label><input name="used_for" value="team_messenging_info" type="checkbox" class="input_sep"> Team Messenging/Info</label>
+                <label><input name="used_for" value="other" type="checkbox" class="input_sep"> Other</label>
+            </div>
+            <div class="grouping">
+                <p>Please leave any suggestions or comments below.</p>
+                <textarea id="comments" class"input_textarea" placeholder="Enter comments or suggestions here..."></textarea>
+            </div>
+            <div class="grouping">
+                <button type="submit" id="submit" class="submit_button">Submit</button>
+            </div>
+        </form>
+    </main>
+    <footer>
+        <br>
+        <a href="#top">Top of Page</a>&nbsp;|&nbsp;
+		<a href="http://students.cpcc.edu/~rprophe0/web215/codepen_projects/">Back to CodePen Projects</a>
+    </footer>
+</body>
+</html>

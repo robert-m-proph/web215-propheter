@@ -1,0 +1,64 @@
+<h2 class="center">Brand Guide</h2>
+			
+<!-- Links (Navigation) -->
+<div data-include="../components/tpbNav.html"></div>
+			
+<div id="rectangle"> 
+	<div class="border">
+		<h3>Mission Statement</h3>
+			<p><em>"Using methods, strategies, and planning to help coaches achieve success for their organization."</em></p>		
+		<h3>Concept</h3>
+			<p><em>The Playbook</em> is a brand that is dedicated to the development of football coaches and teams across 
+				the country achieve the success they loath for. Our organization consist of experienced coaches that 
+				have won many Division and Regional Championships at the youth level.<em>The Playbook</em> consist of strategic 
+				offensive and defensive plays that will bring your coaching staff and players to the next level.<em>The Playbook</em>  
+				also offers warm up drills and special teams. We are consistent in developing the best strategies to 
+				ensure an improved team cohesion.</p>			
+				<p>Our organization is dedicated to the love of football, a winning mentality, and the growth of players 
+				and coaches. We hope you choose The Playbook for your coaching needs. Afterall, champions never stop 
+				learning, preparing, and practicing!</p>
+	</div>
+</div>
+<br>
+<br>			
+<!-- Color Information -->			
+<h3>Colors</h3>
+<br>
+<figure class="left">
+	<figcaption class="left">
+	<img src="images/tpb_color_citrus.png" alt="Color Citrus">
+	<p>#B0A500</p>
+	<p>Citrus will be used as the main form of text color in the body with the Baltic Sea background. Citrus will 
+		also be used in some parts of the page as a background color.</p>
+	</figcaption>
+</figure>				
+<figure class="left">
+	<figcaption>
+	<img src="images/tpb_color_baltic_sea.png" alt="Color Balitic Sea">
+	<p>#0E0E0E</p>
+	<p>Baltic Sea will be used as the main background color. Baltic Sea will also be used as a text color when it 
+		appears over the Citrus background.</p>
+	</figcaption>
+</figure>				
+<figure class="left">
+	<figcaption>
+	<img src="images/tpb_color_lily_white.png" alt="Color Lily White">
+	<p>#EDEDED</p>
+	<p>Lily White will be used as the color for the headings and links. Antique White will be used when hovering 
+		over the links.</p>
+	</figcaption>
+</figure>
+<br>
+<div class="center">
+	<p>** For more information on the color palettes used for this branding guide, follow the links below. **</p>
+	<a href="https://bighugelabs.com/colors.php">Dark Colors</a>&nbsp;|
+	<a href="https://bighugelabs.com/colors.php">Light Colors</a>
+</div>			
+<br>
+<br>			
+<!-- Font Information -->		
+<h3>Fonts</h3>
+<h5>Verdana</h5>
+<p>The verdana font will be used in headings.</p>					
+<h5>Courier</h5>
+<p>The courier font will be used as the main font of the body.</p>

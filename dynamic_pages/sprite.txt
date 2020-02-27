@@ -1,0 +1,21 @@
+<h3 class="center">MARA Colts Highlights</h3>
+<p>Below are a few pictures of the 2019 Pop Warner JPW (Junior PeeWee) DIII Regional Champions during their
+game against Top Sail, NC. The MARA (Matthews Athletic & Recreation Association) Colts ultimately won advancing
+to the 3-State, Regional Championship Game in Virginia Beach, VA!</p>
+<p>The MARA Colts went 11-2 for the 2019 season. Not only are they the 2019 Mid-South Pop Warner Regional Champions,
+they also won the DIII Divisional Championships in 2018 & 2019!</p>
+<br>
+<div id="sprite_main">
+	<div class="sprite" id="coaches"></div>
+		<p>Mara's JPW DIII Coaches</p>
+	<div class="sprite" id="shoup_run"></div>
+		<p>One of the Colt's running backs making a move!</p>
+	<div class="sprite" id="o_line"></div>
+		<p>Mara's plays wouldn't be anything without the offensive line!</p>
+	<div class="sprite" id="pass"></div>
+		<p>Mara's QB throwing bullets like always!</p>
+	<div class="sprite" id="face_down"></div>
+		<p>A Colt's tight-end making a perfect block for the running back!</p>
+</div>			
+<br>
+<br>

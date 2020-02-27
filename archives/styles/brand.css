@@ -1,0 +1,78 @@
+/* 
+WEB 215
+
+This CSS is the default Style for The Playbook brand.
+*/
+
+body {
+	background-image: url("../images/tpb_background_possible3.jpg");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: left top;
+	background-color: #0e0e0e; /* baltic sea */
+	margin: 10px 10%;
+	font-family: Courier;
+	color: #b0a500; /* citrus */
+	font-weight: bold;
+	font-size: 1em;
+}
+h1, h2, h3, h4, h5 {
+	font-family: Verdana;
+	color: #ededed; /* lily white */
+}
+nav {
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-top: 200px;
+}
+nav span {
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-top: 200px;
+	color: #faebd7;  /* antique white */
+}
+nav span:link { color: #faebd7; } /* antique white */
+nav span:visited { color: #faebd7; } /* antique white */
+nav span:hover { color: #b0a500;  /* citrus */
+	cursor: pointer;
+}
+
+a { text-decoration: none;}
+a:link { color: #faebd7; } /* antique white */
+a:visited { color: #faebd7; } /* antique white */
+a:hover { color: #b0a500; } /* citrus */
+
+footer {
+	text-align: center;
+	display: block;
+	font-size: 1em;
+}
+
+/* Classes and IDs */
+
+.spanLink {
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-top: 200px;
+}
+.center {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.left {
+	margin-left: 0px;
+}
+.border {
+	border-style: solid;
+	border-color: #0e0e0e; /* baltic sea */
+	border-width: 5px;
+	padding: 1px 30px;
+}
+#rectangle {
+	background-color: #b0a500; /* citrus */
+	color: #0e0e0e; /* baltic sea */
+	padding: 5px;
+	margin-top: 15px;
+}

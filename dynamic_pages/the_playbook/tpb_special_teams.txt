@@ -1,0 +1,24 @@
+<h2 class="center">Special Teams</h2>
+<br>
+<!-- Special Teams Information -->		
+<h3>Special Teams drills, plays, and more coming soon. Stay tuned!</h3>
+<br>
+<div id="rectangle">
+	<div class="border">
+		<h3>Mission Statement</h3>
+		<p><em>"Using methods, strategies, and planning to help coaches achieve success for their organization."</em></p>		
+		<h3>Concept</h3>
+		<p><em>The Playbook</em> is a brand that is dedicated to the development of football coaches and teams across 
+			the country achieve the success they loath for. Our organization consist of experienced coaches that 
+			have won many Division and Regional Championships at the youth level.<em>The Playbook</em> consist of strategic 
+			offensive and defensive plays that will bring your coaching staff and players to the next level.<em>The Playbook</em>  
+			also offers warm up drills and special teams. We are consistent in developing the best strategies to 
+			ensure an improved team cohesion.</p>			
+		
+		<p>Our organization is dedicated to the love of football, a winning mentality, and the growth of players 
+			and coaches. We hope you choose The Playbook for your coaching needs. Afterall, champions never stop 
+			learning, preparing, and practicing!</p>
+	</div>
+</div>
+<br>
+<br>
