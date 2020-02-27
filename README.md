@@ -1,12 +1,14 @@
 # web215
 Web 215 | Advanced Markup &amp; Scripting
 
-### This Reop is for dedication to the above mentioned class, Web215. The assignments related to this repo include HTML, CSS, JavaScript, and jQuery
+This Repo is dedicated to the above mentioned class, Web215. The assignments related to this repo include HTML, CSS, JavaScript, and jQuery
 
 
-#### I already linked your profile to your name. Just link your class repo and mark yourself as here with time/date!!!
 
-#### Invited and waiting on:
+##### The below information is to track which students in my class who have visited my GitHub. the point is to understand how to navigate GitHub.
+##### I already linked your profile to your name. Just link your class repo and mark yourself as here with time/date!!!
+
+##### Invited and waiting on:
 
 - [Kendall Cheek](https://github.com/KendallCheek/) | [Class Repo](https://github.com/KendallCheek/web215_kendallcheek) was here 11:27 am 1/28/20
 - [Elena Zelenina](https://github.com/ElenaZelenina/) | [Class Repo]( Enter class Repo Here)
